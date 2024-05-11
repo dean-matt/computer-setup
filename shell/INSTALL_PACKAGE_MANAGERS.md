@@ -1,4 +1,4 @@
-# Package Managers
+# Install Package Managers
 
 ## Homebrew
 

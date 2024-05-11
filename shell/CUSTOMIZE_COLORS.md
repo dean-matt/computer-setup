@@ -1,4 +1,4 @@
-# Shell Coloring
+# Customize Shell Colors
 
 ## Terminal Colors
 
